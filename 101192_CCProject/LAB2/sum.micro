@@ -1,0 +1,13 @@
+PROGRAM sum
+BEGIN
+	FUNCTION INT F (INT n, INT x)
+	BEGIN
+		RETURN n+x;
+	END
+	
+	FUNCTION VOID main ()
+	BEGIN
+		WRITE(N);
+		INT F(6+4);
+	END
+END

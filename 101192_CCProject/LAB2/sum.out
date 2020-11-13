@@ -1,0 +1,85 @@
+Token Type: KEYWORD
+Value: PROGRAM
+Token Type: IDENTIFIER
+Value: sum
+Token Type: KEYWORD
+Value: BEGIN
+Token Type: KEYWORD
+Value: FUNCTION 
+Token Type: INTLITERAL 
+Value: INT 
+Token Type: IDENTIFIER
+Value: F
+Token Type: OPERATOR
+Value: (
+Token Type: INTLITERAL 
+Value: INT
+Token Type: IDENTIFIER
+Value: n
+Token Type: OPERATOR
+Value: ,
+Token Type: INTLITERAL 
+Value: INT
+Token Type: IDENTIFIER
+Value: x
+Token Type: OPERATOR
+Value: )
+Token Type: KEYWORD
+Value: BEGIN
+Token Type: KEYWORD
+Value: RETURN 
+Token Type: KEYWORD
+Value: RETURN
+Token Type: IDENTIFIER
+Value: n 
+Token Type: OPERATOR
+Value: +
+Token Type: IDENTIFIER
+Value: x
+Token Type: KEYWORD
+Value: END
+Token Type: KEYWORD
+Value: FUNCTION 
+Token Type: KEYWORD
+Value: VOID 
+Token Type: KEYWORD
+Value: main 
+Token Type: OPERATOR
+Value: (
+Token Type: OPERATOR
+Value: )
+Token Type: KEYWORD
+Value: BEGIN
+Token Type: KEYWORD
+Value: WRITE
+Token Type: OPERATOR
+Value: (
+Token Type: IDENTIFIER
+Value: N
+Token Type: OPERATOR
+Value: )
+Token Type: OPERATOR
+Value: ;
+Token Type: INTLITERAL 
+Value: INT
+Token Type: IDENTIFIER
+Value: F
+Token Type: OPERATOR
+Value: (
+Token Type: IDENTIFIER
+Value: 6 
+Token Type: OPERATOR
+Value: +
+Token Type: IDENTIFIER
+Value: 4
+Token Type: OPERATOR
+Value: )
+Token Type: OPERATOR
+Value: ;
+Token Type: KEYWORD
+Value: END
+Token Type: KEYWORD
+Value: END
+
+
+ 
